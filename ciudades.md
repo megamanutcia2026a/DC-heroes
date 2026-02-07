@@ -6,3 +6,5 @@
 4. Liberty City
 5. San andreas
 6. Night City
+7. Ciudad de Mexico
+8. Mexico
